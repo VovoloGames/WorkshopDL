@@ -1,1 +1,3 @@
-The program has been discontinued! Please download the latest version from https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583. I removed update checking and fixed some bugs. Other releases from forked repos or reuploads on websites are dangerous and likely malicious!
+The program has been discontinued! Please download the latest version from https://cs.rin.ru/forum/viewtopic.php?f=29&t=124583. I removed update checking and fixed some bugs.
+Other releases from forked repos or reuploads on websites are dangerous and likely malicious!
+If you downloaded this program from a place other than https://github.com/VovoloGames/WorkshopDL or https://cs.rin.ru/ there is a good chance you downloaded an infected file.
